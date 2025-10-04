@@ -1,6 +1,6 @@
 # Trezza Terminal
 
-A modern, Zed-inspired Point of Sale system built with Rust and Dioxus.
+A modern, Point of Sale system built with Rust and Dioxus.
 
 ## Features
 
